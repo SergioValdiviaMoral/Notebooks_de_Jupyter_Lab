@@ -4,3 +4,6 @@ Este notebook es de prueba para ver como funciona este repositorio
 
 
 En este repositorio encontraremos las carpetas de la formacion de conexion
+
+
+Este nuevo cambio no es visible en local
